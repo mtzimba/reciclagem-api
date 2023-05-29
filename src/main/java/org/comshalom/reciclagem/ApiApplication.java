@@ -1,4 +1,4 @@
-package comshalom.org.reciclagem;
+package org.comshalom.reciclagem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
